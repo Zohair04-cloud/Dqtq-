@@ -7,11 +7,14 @@ pip install numpy
 # Gestion d'entrée et du sortie 
 ## Compilation du code c 
 
-``` gcc main.c out.o ´´´ \
+#``` gcc main.c out.o ´´´ \
 
-##  excution du code c
+#  Excution du code c
+gcc .\main.c
+. \a.exe
 
 ``` ./out.o ´´´\
+
 
 
 
