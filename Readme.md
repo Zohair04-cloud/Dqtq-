@@ -12,7 +12,12 @@ pip install numpy
 #  Excution du code c
 gcc .\main.c
 . \a.exe
+# git commands 
 
+git add 
+git  commit m "add feature "(create message + push)
+git push origin
+a   [data lien`](https://www.geeksforgeeks.org/data-structures/)
 ``` ./out.o ´´´\
 
 
